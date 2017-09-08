@@ -1,0 +1,1 @@
+A library mod to come up with some kind of magic biome detection.
